@@ -17,7 +17,7 @@ This project performs sentiment analysis on movie reviews using various machine 
 
 - Python 3.8+
 - Jupyter Notebook
-- Libraries: pandas, numpy, scikit-learn, tensorflow, transformers, torch, etc.
+- Libraries: pandas, numpy, matplotlib, scikit-learn, tensorflow, transformers, torch, pickle, seaborn
 
 ## Usage
 
